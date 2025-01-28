@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 this is kalindi pathak
 
 <!--
 **kalindipathak/kalindipathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
